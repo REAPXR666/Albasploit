@@ -1,0 +1,5 @@
+C:\Users\louis\Downloads\purify executor\AlbaSploit\obj\Debug\AlbaSploit.csproj.AssemblyReference.cache
+C:\Users\louis\Downloads\purify executor\AlbaSploit\obj\Debug\Executor.Form1.resources
+C:\Users\louis\Downloads\purify executor\AlbaSploit\obj\Debug\Executor.ScriptHub.resources
+C:\Users\louis\Downloads\purify executor\AlbaSploit\obj\Debug\AlbaSploit.csproj.GenerateResource.cache
+C:\Users\louis\Downloads\purify executor\AlbaSploit\obj\Debug\AlbaSploit.csproj.CoreCompileInputs.cache
